@@ -1,0 +1,22 @@
+# Passo 0 - Entende a empresa e o desafio
+# Passo 1 - Importar a base de dados
+# Passo 2 - Preparar a base de dados para a Inteligência Artificial
+# Passo 3 - Treinar a Inteligência Artificial - Criar o modelo
+# Passo 4 - Escolher qual o melhor modelo
+# Passo 5 - Usar o melhor modelo para fazer previsão de novos clientes
+
+# Transformar as colunas de texto em números, pois a inteligência
+Artificial não consegue prever através de textos.
+
+# Y = é a coluna da base de dados que eu quero prever
+# X = são as colunas da base de dados que eu vou usar para fazer a previsão
+
+# separar os dados de treino dos dados de teste
+
+# treinar o modelo
+ passo  importar IA
+ criar IA
+ treinar IA
+
+
+
